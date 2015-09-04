@@ -20,7 +20,7 @@ class NilClass
 end
 
 APPLICATION_NAME = 'Google Calendar API Quickstart'
-CLIENT_SECRETS_PATH = '/Users/george/Downloads/client_secret.json'
+CLIENT_SECRETS_PATH = '/Users/yourname/client_secret.json'
 CREDENTIALS_PATH = File.join(Dir.home, '.credentials',
                              "calendar-quickstart.json")
 SCOPE = 'https://www.googleapis.com/auth/calendar.readonly'
